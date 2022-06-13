@@ -1,12 +1,7 @@
 # Cricket-World-Cup-Management-System
 A GUI based Cricket world cup management system which has admin and user access to support adding, deleting, updating and retrieving the world cup data.
 README FILE FOR  GUI
-Team Number: 4		
-USN	ROLL NO	NAME
-01FE19BCS275	509	Bhuavn M C
-01FE19BCS279	512	Shreehari T Alagawadi
-01FE19BCS304	534	Raghavendra A Hallyal
-01FE19BCS290	522	Supriya Khemalapure
+
 
 PREREQUISITES :
 1.	DB BROWSER(SQLITE) AND CREATE TABLES .
