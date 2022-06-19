@@ -15,7 +15,7 @@ https://build-system.fman.io/qt-designer-download
 
 STEPS TO BE FOLLOWED:
 
-Step 1: Extract the given zip folder. 
+Step 1: Download all files in this repo or clone the repo. 
 
 Step 2 : Open Visual Studio.
 
