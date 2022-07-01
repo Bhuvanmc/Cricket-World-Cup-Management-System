@@ -22,7 +22,7 @@ Step 2 : Open Visual Studio.
 Step 3: Click on Open folder.
 ![image](https://user-images.githubusercontent.com/59958031/173370580-4f672d31-d8b4-402b-a1ae-95540d7f4f96.png)
 
-Step 4: Select the GUI folder inside the folder that you got after extracting given zip file.
+Step 4: Select the GUI folder inside the folder that you got after extracting downloaded zip file.
  ![image](https://user-images.githubusercontent.com/59958031/173370958-bf223267-3c62-436a-998f-84750cc56334.png)
 
  
